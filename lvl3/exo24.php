@@ -7,7 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-    <form action="exo23.php" method="get">
+    <form action="exo24.php" method="get">
     <label for="nom">Entrer votre nom : </label>
     <input type="text" name="nom" id="nom">
     <br>
